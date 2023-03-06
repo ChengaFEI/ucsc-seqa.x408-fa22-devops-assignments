@@ -1,0 +1,25 @@
+1. checkhash.sh
+
+Create a shell script (checkhash.sh) to check for a file by name ~/.hushlogin if the file is not there create a file
+
+Provide execute privileges on the file
+
+Run the script - ./checkhash.sh
+
+If the file is there, then Print "File exists, All Good".
+If file does not exist, Print "File created".
+
+Run shellcheck and shfmt against the file and fix recommendations if any.
+
+
+
+2. Os Version Script
+Create a script that will print the version of the current OS - Operating system that your using
+
+
+
+3. Create a Repo in Your Personal Github.com profile - call it assignment1, make it a private repo and provide read privileges for me pravana
+
+Commit the scripts created in the exercises above with the instructions on how to execute them in README.md file
+
+PS: After the class is over please remove my privileges on all the repos you have created

@@ -1,0 +1,13 @@
+Create a a docker image based on nginx docker image, and publish to Docker Hub into your namespace. 
+
+Default behavior is to get a welcome page that says Welcome to nginx!. 
+
+Change the starting page to say "Welcome to <Your Name> World". So when I pull your image from docker hub and run the command 
+
+docker run -dit -p 80:80 <yournamespace>/nginx:<version>. it should display a new text
+
+ 
+
+Default start command - docker run -dit -p 80:80 nginx. 
+
+http://localhost/

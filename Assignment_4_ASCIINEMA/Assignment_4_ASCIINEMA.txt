@@ -1,0 +1,7 @@
+This assignment is to test your ability to follow through documentation and independently learn a new tool.
+
+This is a great tool to share recording of terminal
+
+Sign up for https://asciinema.org Links to an external site.and set it up locally based on the Docs - https://asciinema.org/docs/how-it-works'Links to an external site.
+
+Start recording run a bunch of commands like, ls, cat <file>, du -sh  etc., stop recording, publish the link and make it public and submit it so that I can review

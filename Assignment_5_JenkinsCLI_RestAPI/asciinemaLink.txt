@@ -1,0 +1,6 @@
+Jenkins REST API with curl command:
+https://asciinema.org/a/552773
+
+
+Jenkins REST API with Jenkins CLI:
+https://asciinema.org/a/CKrxyTtsFBqzo7KKuknIkSOzi

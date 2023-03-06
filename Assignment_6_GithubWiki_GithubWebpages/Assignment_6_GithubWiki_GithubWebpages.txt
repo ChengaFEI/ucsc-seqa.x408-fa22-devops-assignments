@@ -1,0 +1,11 @@
+1. Wiki:
+
+Create a list of command that you found useful in this course. You can either create this in an existing repo or create a brand new repo. Using Markdown
+
+https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikisLinks to an external site.
+
+
+
+2. Github Pages:
+
+In the same repo, use the same content to create a github page - https://pages.github.com/

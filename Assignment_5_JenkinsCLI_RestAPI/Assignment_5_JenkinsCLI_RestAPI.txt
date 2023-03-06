@@ -1,0 +1,8 @@
+Trigger a simple Jenkins Job - Say Hello World on the Execute Shell 
+- Via a) REST API using CURL 
+      b) using Jenkins CLI
+
+https://www.jenkins.io/doc/book/managing/cli/
+Links to an external site.
+
+https://www.jenkins.io/doc/book/using/remote-access-api/

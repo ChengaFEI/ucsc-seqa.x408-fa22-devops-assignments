@@ -1,0 +1,2 @@
+Create a Jenkins Job that displays the disk utilization of your host machine. 
+Basically add the Unix Command to the Add Shell Command step in Jenkins and Show the output. You can attach a video/ recording or screenshot of the output

@@ -1,0 +1,12 @@
+### MacOS ###
+# General
+.DS_Store
+
+### Nested Repo ###
+# General
+github
+
+### Jenkins ### 
+# General
+jenkins
+
